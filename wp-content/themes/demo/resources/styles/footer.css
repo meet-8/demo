@@ -1,0 +1,63 @@
+/* Footer CSS Start */
+.footer {
+  padding: 80px 0;
+}
+.footer__socialtitle h6 {
+  font-size: 16px;
+  line-height: 19px;
+  font-weight: 400;
+  color: #555962;
+  text-align: center;
+  margin-bottom: 10px;
+}
+.footer__socialimage img {
+  max-width: 100px;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+.footer__menu ul li:not(:last-child) {
+  margin-bottom: 5px;
+}
+.footer__menu ul li a {
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 700;
+  color: #1b75bc;
+  transition: all 500ms;
+  text-align: right;
+}
+.footer__menu ul li {
+  text-align: right;
+}
+.footer__menu ul li a:hover {
+  color: #cea02b;
+}
+.footer__tagline h4 {
+  font-size: 30px;
+  line-height: 37px;
+  font-weight: 700;
+  color: #1b74ba;
+}
+.footer__copyright p {
+  font-weight: 400;
+  font-size: 16px;
+  text-align: center;
+  color: #555962;
+}
+.footer__copyright p a {
+  transition: all 500ms;
+  color: #555962;
+}
+.footer__copyright p a:hover {
+  color: #cea02b;
+}
+.footer__bottom {
+  padding-top: 35px;
+}
+.footer__logo img {
+  max-width: 252px;
+  object-fit: contain;
+  width: 100%;
+}
+/* Footer CSS End */
